@@ -1,0 +1,10 @@
+D:\Masaüstü\Su Dalgaları\Su Dalgaları\bin\Debug\Su Dalgaları.exe.config
+D:\Masaüstü\Su Dalgaları\Su Dalgaları\bin\Debug\Su Dalgaları.exe
+D:\Masaüstü\Su Dalgaları\Su Dalgaları\bin\Debug\Su Dalgaları.pdb
+D:\Masaüstü\Su Dalgaları\Su Dalgaları\obj\Debug\Su Dalgaları.csprojAssemblyReference.cache
+D:\Masaüstü\Su Dalgaları\Su Dalgaları\obj\Debug\Su_Dalgaları.Form1.resources
+D:\Masaüstü\Su Dalgaları\Su Dalgaları\obj\Debug\Su_Dalgaları.Properties.Resources.resources
+D:\Masaüstü\Su Dalgaları\Su Dalgaları\obj\Debug\Su Dalgaları.csproj.GenerateResource.cache
+D:\Masaüstü\Su Dalgaları\Su Dalgaları\obj\Debug\Su Dalgaları.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Su Dalgaları\Su Dalgaları\obj\Debug\Su Dalgaları.exe
+D:\Masaüstü\Su Dalgaları\Su Dalgaları\obj\Debug\Su Dalgaları.pdb
